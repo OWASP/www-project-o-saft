@@ -208,8 +208,8 @@ new option --togglesni tests without and with sni in one call</p>
 <h2 id="documentation">Documentation</h2>
 <ul>
 <ul>
-<li><a href="O-Saft/Documentation" title="wikilink">help/man page</a></li>
-<li><a href="O-Saft/Documentation" title="wikilink">help/man page</a></li>
+<li><a href="O-Saft/Documentation" title=>help/man page</a></li>
+<li><a href="O-Saft/Documentation" title=>help/man page</a></li>
 </ul>
 </ul>
 <h2 id="presentations">Presentations</h2>
@@ -224,16 +224,16 @@ new option --togglesni tests without and with sni in one call</p>
 <ul>
 <li>Workshop <u>[<a href="http://www.it-security-konferenz.de/programm.html#workshop3%7C3">http://www.it-security-konferenz.de/programm.html#workshop3|3</a>. Kölner IT-Security-Konferenz]</u></li>
 <li>Workshop <u>[<a href="http://www.it-security-konferenz.de/programm.html#workshop3%7C3">http://www.it-security-konferenz.de/programm.html#workshop3|3</a>. Kölner IT-Security-Konferenz]</u></li>
-<li>17.03.2016 <u><a href="BeNeLux_OWASP_Day_2016" title="wikilink">OWASP BeNeLux Day 2016</a></u>, Luxembourg</li>
-<li>17.03.2016 <u><a href="BeNeLux_OWASP_Day_2016" title="wikilink">OWASP BeNeLux Day 2016</a></u>, Luxembourg</li>
+<li>17.03.2016 <u><a href="BeNeLux_OWASP_Day_2016" title=>OWASP BeNeLux Day 2016</a></u>, Luxembourg</li>
+<li>17.03.2016 <u><a href="BeNeLux_OWASP_Day_2016" title=>OWASP BeNeLux Day 2016</a></u>, Luxembourg</li>
 </ul>
 </ul>
 <dl>
 <dl>
 <dt></dt>
 <dt></dt>
-<dd>There will be a training <u><a href="BeNeLux_OWASP_Day_2016#Trainingday" title="wikilink">O-Saft - TLS/SSL in Practice</a></u>.
-<dd>There will be a training <u><a href="BeNeLux_OWASP_Day_2016#Trainingday" title="wikilink">O-Saft - TLS/SSL in Practice</a></u>.
+<dd>There will be a training <u><a href="BeNeLux_OWASP_Day_2016#Trainingday" title=>O-Saft - TLS/SSL in Practice</a></u>.
+<dd>There will be a training <u><a href="BeNeLux_OWASP_Day_2016#Trainingday" title=>O-Saft - TLS/SSL in Practice</a></u>.
 </dd>
 </dd>
 </dl>
@@ -256,8 +256,8 @@ new option --togglesni tests without and with sni in one call</p>
 </dl>
 <ul>
 <ul>
-<li>09.12.2014 Presentation '' Richtig verschlüsseln mit SSL/TLS'' at <u><a href="German_OWASP_Day_2014" title="wikilink">German OWASP Day 2014</a></u>, program see <u><a href="German_OWASP_Day_2014/Programm" title="wikilink">here</a></u></li>
-<li>09.12.2014 Presentation '' Richtig verschlüsseln mit SSL/TLS'' at <u><a href="German_OWASP_Day_2014" title="wikilink">German OWASP Day 2014</a></u>, program see <u><a href="German_OWASP_Day_2014/Programm" title="wikilink">here</a></u></li>
+<li>09.12.2014 Presentation '' Richtig verschlüsseln mit SSL/TLS'' at <u><a href="German_OWASP_Day_2014" title=>German OWASP Day 2014</a></u>, program see <u><a href="German_OWASP_Day_2014/Programm" title=>here</a></u></li>
+<li>09.12.2014 Presentation '' Richtig verschlüsseln mit SSL/TLS'' at <u><a href="German_OWASP_Day_2014" title=>German OWASP Day 2014</a></u>, program see <u><a href="German_OWASP_Day_2014/Programm" title=>here</a></u></li>
 <li><u><a href="https://2014.appsec.eu/">AppSecEU 2014</a></u>, Cambridge</li>
 <li><u><a href="https://2014.appsec.eu/">AppSecEU 2014</a></u>, Cambridge</li>
 </ul>
@@ -274,18 +274,18 @@ new option --togglesni tests without and with sni in one call</p>
 </dl>
 <ul>
 <ul>
-<li>Vortrag beim German OWASP Day 2014: <u><a href="Media:Richtig_verschluesseln_mit_SSL+TLS_-_Achim_Hoffmann+Torsten_Gigler.pdf" title="wikilink">Richtig verschlüsseln mit SSL/TLS</a></u></li>
-<li>Vortrag beim German OWASP Day 2014: <u><a href="Media:Richtig_verschluesseln_mit_SSL+TLS_-_Achim_Hoffmann+Torsten_Gigler.pdf" title="wikilink">Richtig verschlüsseln mit SSL/TLS</a></u></li>
-<li>Vortrag beim Münchner OWASP-Stammtisch: <u><a href="Media:SSL-in-der-Praxis_OWASP-Stammtisch-Muenchen.pdf‎" title="wikilink">Überblick über aktuelle Angriffsmöglichkeiten auf HTTPS / SSL</a></u> (enthält auch ein paar Beispiele mit o-saft)</li>
-<li>Vortrag beim Münchner OWASP-Stammtisch: <u><a href="Media:SSL-in-der-Praxis_OWASP-Stammtisch-Muenchen.pdf‎" title="wikilink">Überblick über aktuelle Angriffsmöglichkeiten auf HTTPS / SSL</a></u> (enthält auch ein paar Beispiele mit o-saft)</li>
+<li>Vortrag beim German OWASP Day 2014: <u><a href="/www-pdf-archive/Richtig_verschluesseln_mit_SSL+TLS_-_Achim_Hoffmann+Torsten_Gigler.pdf" title=>Richtig verschlüsseln mit SSL/TLS</a></u></li>
+<li>Vortrag beim German OWASP Day 2014: <u><a href="/www-pdf-archive/Richtig_verschluesseln_mit_SSL+TLS_-_Achim_Hoffmann+Torsten_Gigler.pdf" title=>Richtig verschlüsseln mit SSL/TLS</a></u></li>
+<li>Vortrag beim Münchner OWASP-Stammtisch: <u><a href="/www-pdf-archive/SSL-in-der-Praxis_OWASP-Stammtisch-Muenchen.pdf‎" title=>Überblick über aktuelle Angriffsmöglichkeiten auf HTTPS / SSL</a></u> (enthält auch ein paar Beispiele mit o-saft)</li>
+<li>Vortrag beim Münchner OWASP-Stammtisch: <u><a href="/www-pdf-archive/SSL-in-der-Praxis_OWASP-Stammtisch-Muenchen.pdf‎" title=>Überblick über aktuelle Angriffsmöglichkeiten auf HTTPS / SSL</a></u> (enthält auch ein paar Beispiele mit o-saft)</li>
 </ul>
 </ul>
 <p><small>(These presentations are in German)</small></p>
 <p><small>(These presentations are in German)</small></p>
 <h2 id="project_leader">Project Leader</h2>
 <h2 id="project_leader">Project Leader</h2>
-<p><a href="User:Achim" title="wikilink">Achim</a> Hoffmann</p>
-<p><a href="User:Achim" title="wikilink">Achim</a> Hoffmann</p>
+<p><a href="User:Achim" title=>Achim</a> Hoffmann</p>
+<p><a href="User:Achim" title=>Achim</a> Hoffmann</p>
 <h2 id="licensing">Licensing</h2>
 <h2 id="licensing">Licensing</h2>
 <p>OWASP O-Saft is free to use. It is licensed under the GPL v2 license.</p>
@@ -310,7 +310,7 @@ new option --togglesni tests without and with sni in one call</p>
 </ul></td>
 <ul>
 <li><strong>Stable Release (19.01.19)</strong>: <u><a href="https://github.com/OWASP/O-Saft/archive/19.01.19.tar.gz">o-saft.tgz</a></u></li>
-<li>more see <a href="#Change_Log" title="wikilink">#Change Log</a></li>
+<li>more see <a href="#Change_Log" title=>#Change Log</a></li>
 </ul>
 <h2 id="docker">Docker</h2>
 <p>A Docker Container can be found at <u><a href="https://hub.docker.com/r/owasp/o-saft/">https://hub.docker.com/r/owasp/o-saft/</a></u></p>
@@ -370,7 +370,7 @@ computer
 :\* use *o-saft.pl +cipherall* (or 'checkAllCiphers.pl') to get the
 ciphers for the missing protocols, or recompile 'Net::SSLeay' and/or
 *openssl* to support more protocols and ciphers, see [Documentation
-INSTALLATION](O-Saft/Documentation#INSTALLATION "wikilink") for details
+INSTALLATION](O-Saft/Documentation#INSTALLATION ) for details
 
   - I can not use the latest features of the test (experimental) version
 
@@ -386,7 +386,7 @@ please add it to your command (and take care what happens)
 
   -
     try one or all of following options (see [Documentation Performance
-    Problems](O-Saft/Documentation#Performance_Problems "wikilink"));
+    Problems](O-Saft/Documentation#Performance_Problems ));
       - *--no-dns* *-no-http* *--no-cert* *--no-sni* *--no-openssl*
 
 # Acknowledgements
@@ -509,9 +509,9 @@ Some of the ways you can help:
 
 __NOTOC__ <headertabs />
 
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
-[Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Tool](Category:OWASP_Tool "wikilink")
-[Category:SSL](Category:SSL "wikilink")
-[Category:Test](Category:Test "wikilink")
+[Category:OWASP Project](Category:OWASP_Project )
+[Category:OWASP_Builders](Category:OWASP_Builders )
+[Category:OWASP_Defenders](Category:OWASP_Defenders )
+[Category:OWASP_Tool](Category:OWASP_Tool )
+[Category:SSL](Category:SSL )
+[Category:Test](Category:Test )
