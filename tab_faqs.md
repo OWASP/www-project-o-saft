@@ -1,9 +1,9 @@
 ---
-title: FAQs
+title: faqs
 displaytext: FAQs
-layout: col-sidebar
+layout: null
 tab: true
-order: 2
+order: 1
 ---
 
 * Where can I get missing Perl-Modules?<br>This depends on your OS and Perl installation, but just try ''cpan <Module-Name>'', e.g. ''cpan Net:DNS''

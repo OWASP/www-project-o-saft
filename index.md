@@ -6,7 +6,6 @@ tags: tlsm, ssl
 altfooter: true
 level: 2
 type: tool
-
 auto-migrated: 0
 pitch: O-Saft is an easy to use tool to show informations about SSL certificate and tests the SSL connection according given list of ciphers and various SSL configurations.
 
