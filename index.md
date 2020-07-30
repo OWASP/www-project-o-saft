@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP O-Saft
-tags: tlsm, ssl
+tags: tlsm, ssl, osaft
 altfooter: true
 level: 2
 type: tool
