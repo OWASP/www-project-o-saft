@@ -99,8 +99,8 @@ The main idea is to have a tool which works on common platforms and can simply b
 
 ## New Features of Test Version
 
-### Quick Installation (test version):
-* Download and unpack master.zip
+### Quick Installation (latest version 23.04.23):
+* Download and unpack master.zip from [github.com/OWASP/O-Saft](https://github.com/OWASP/O-Saft/) or use [o-saft.tgz](https://github.com/OWASP/O-Saft/raw/master/o-saft.tgz)
 * Start INSTALL.sh (if you want)
 * Enjoy new functionality:
   * '+cipherraw' and 'checkAllCiphers.pl' changed bahavior to check sni (now the default is to use solely sni >=tls1
