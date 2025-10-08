@@ -99,7 +99,7 @@ The main idea is to have a tool which works on common platforms and can simply b
 
 ## New Features of Test Version
 
-### Quick Installation (latest version 23.04.23):
+### Quick Installation (latest version 24.09.24):
 * Download and unpack master.zip from [github.com/OWASP/O-Saft](https://github.com/OWASP/O-Saft/) or use [o-saft.tgz](https://github.com/OWASP/O-Saft/raw/master/o-saft.tgz)
 * Start INSTALL.sh (if you want)
 * Enjoy new functionality:
